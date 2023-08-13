@@ -1,0 +1,135 @@
+/* Estilos para o corpo (body) da página */
+body {
+    /* Definindo a fonte padrão para o texto no corpo da página */
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+    /* Centralizando o alinhamento horizontal do texto */
+    text-align: center;
+    
+    /* Definindo a cor de fundo do corpo da página */
+    background-color: #F2D4C9;
+    
+    /* Centralizando o corpo horizontalmente e mantendo a margem superior e inferior automática */
+    margin: auto 0;
+}
+
+/* Estilos para o cabeçalho (header) */
+header {
+    /* Definindo a cor de fundo do cabeçalho */
+    background-color: #591902;
+    
+    /* Adicionando espaço interno ao redor do cabeçalho */
+    padding: 3em;
+}
+
+/* Estilos para o conteúdo principal (main) */
+main {
+    /* Definindo margens para o conteúdo principal */
+    margin: 35px;
+}
+
+/* Estilos para imagens */
+img {
+    /* Limitando a largura máxima da imagem */
+    max-width: 900px;
+    
+    /* Limitando a altura máxima da imagem */
+    max-height: 100%;
+    
+    /* Redimensionamento responsivo da imagem */
+    width: auto;
+    height: auto;
+    
+    /* Adicionando espaçamento interno ao redor da imagem */
+    padding: 2em;
+}
+
+/* Estilos para títulos de nível 1 (h1) */
+h1 {
+    /* Definindo o tamanho da fonte */
+    font-size: 2em;
+    
+    /* Centralizando o alinhamento do texto */
+    text-align: center;
+    
+    /* Definindo a cor do texto */
+    color: #fff;
+    
+    /* Transformando o texto em maiúsculas */
+    text-transform: uppercase;
+}
+
+/* Estilos para títulos de nível 2 (h2) */
+h2 {
+    /* Definindo o tamanho da fonte */
+    font-size: 1.3em;
+    
+    /* Definindo a cor do texto */
+    color: #591902;
+    
+    /* Definindo o peso da fonte como normal */
+    font-weight: normal;
+    
+    /* Centralizando o alinhamento do texto */
+    text-align: center;
+    
+    /* Transformando o texto em maiúsculas */
+    text-transform: uppercase;
+}
+
+/* Estilos para títulos de nível 3 (h3) */
+h3 {
+    /* Definindo o tamanho da fonte */
+    font-size: 1.1em;
+    
+    /* Adicionando sublinhado ao texto */
+    text-decoration: underline;
+    
+    /* Definindo a cor do texto */
+    color: #88100f;
+    
+    /* Definindo a fonte da família */
+    font-family: Verdana;
+    
+    /* Alinhando o texto à esquerda */
+    text-align: left;
+    
+    /* Transformando o texto em maiúsculas */
+    text-transform: uppercase;
+}
+
+/* Estilos para parágrafos (p) */
+p {
+    /* Definindo o tamanho da fonte */
+    font-size: 1em;
+    
+    /* Definindo o espaçamento entre linhas */
+    line-height: 28px;
+    
+    /* Definindo a fonte da família */
+    font-family: Verdana;
+    
+    /* Alinhando o texto à esquerda */
+    text-align: left;
+}
+
+/* Estilos para o rodapé (footer) */
+footer {
+    /* Definindo o tamanho da fonte */
+    font-size: 0.8em;
+    
+    /* Definindo a cor do texto */
+    color: #fff;
+    
+    /* Centralizando o alinhamento do texto */
+    text-align: center;
+    
+    /* Definindo o estilo da fonte como itálico */
+    font-style: italic;
+    
+    /* Definindo a cor de fundo do rodapé */
+    background-color: #591902;
+    
+    /* Adicionando espaço interno ao redor do rodapé */
+    padding: 1.5em;
+}
